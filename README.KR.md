@@ -13,6 +13,15 @@
 ](https://www.youtube.com/watch?v=jLfZWK6fyUM)
 </br></br>
 
+## 프로젝트 진행도
+![image](https://github.com/juho-creator/VirtualWorlds/assets/72856990/c738694b-9505-43f3-ad22-033e68729204)
+</br></br>
+
+
+## 사용된 개념
+- 삼각함수
+- 메쉬와 쿼드
+</br></br>
 
 
 # 참고문헌
