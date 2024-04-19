@@ -21,17 +21,33 @@ This is an assignment on virtual world taught by professor Kang Hoon Lee.
 
 
 ## Limitations
-Currently, the project faces the following limitations : 
-1. Incoming vehicles unable to turn on curved road
-2. Camera fixed when user goes through curved road
 
-In order to make the vehicle drift on the curved, several attempts has been made to translate the car on the curved road as follows :
+Currently, the project faces the following limitations:
+
+1. Incoming vehicles are unable to turn on curved roads.
+2. The camera remains fixed when the user navigates through curved roads.
+</br></br>
+
+
+## Attempts to Overcome Limitations
+
+> [!NOTE]
+> **To prevent any confusion during the grading process, malfunctioning code was removed.**
+</br>
+
+- **Enabling Vehicle Movement on Curved Roads**  
+  Efforts have been made to enable vehicles to drift on curved roads. Several attempts have focused on translating the vehicle on the curve:
 
 https://github.com/juho-creator/VirtualWorlds/assets/72856990/ba0d4062-43ab-466e-ae2f-ab77efc327a9
 
-The car began to translate only at the edge of the curve, not while entering it. </br>
-Hence, this malfunctioning code was removed to prevent any confusion in the process of grading the assignment.
+
+  The vehicle began to drift only at the edge of the curve, rather than upon entering it. </br>
+  
+- **Maintaining Camera Distance from the Vehicle**  
+  The camera has been programmed to maintain a constant distance from the vehicle to ensure an optimal viewpoint. While the camera successfully tracks the vehicle on straight roads, it struggles to rotate adequately on curved roads.
 </br></br>
+
+
 
 
 
