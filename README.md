@@ -32,19 +32,21 @@ Currently, the project faces the following limitations:
 ## Attempts to Overcome Limitations
 
 > [!NOTE]
-> **To prevent any confusion during the grading process, malfunctioning code was removed.**
+> **To prevent any confusion during the grading process, </br>
+>  any malfunctioning code mentioned in this section was removed.**
 </br>
 
 - **Enabling Vehicle Movement on Curved Roads**  
-  Efforts have been made to enable vehicles to drift on curved roads. Several attempts have focused on translating the vehicle on the curve:
+  Several attempts have been made to enable vehicles to drift on curved roads. </br>
+  After endless trial and errors, the vehicle was able to translate on the curved road as follows:
 
 https://github.com/juho-creator/VirtualWorlds/assets/72856990/ba0d4062-43ab-466e-ae2f-ab77efc327a9
 
 
-  The vehicle began to drift only at the edge of the curve, rather than upon entering it. </br>
+However the vehicle began to drift only at the edge of the curve, rather than upon entering it. </br>
   
 - **Maintaining Camera Distance from the Vehicle**  
-  The camera has been programmed to maintain a constant distance from the vehicle to ensure an optimal viewpoint. While the camera successfully tracks the vehicle on straight roads, it struggles to rotate adequately on curved roads.
+  The camera has been programmed to maintain a constant distance from the vehicle to ensure an optimal viewpoint. While the camera successfully tracks the vehicle on straight roads, it struggled to rotate adequately on curved roads.
 </br></br>
 
 
