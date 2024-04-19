@@ -20,6 +20,21 @@ This is an assignment on virtual world taught by professor Kang Hoon Lee.
 </br></br>
 
 
+## Limitations
+Currently, the project faces the following limitations : 
+1. Incoming vehicles unable to turn on curved road
+2. Camera fixed when user goes through curved road
+
+In order to make the vehicle drift on the curved, several attempts has been made to translate the car on the curved road as follows :
+
+https://github.com/juho-creator/VirtualWorlds/assets/72856990/ba0d4062-43ab-466e-ae2f-ab77efc327a9
+
+The car began to translate only at the edge of the curve, not while entering it. </br>
+Hence, this malfunctioning code was removed to prevent any confusion in the process of grading the assignment.
+</br></br>
+
+
+
 ## Concepts used
 - Trigonometric Functions
 - Meshes & Quads
